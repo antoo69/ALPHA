@@ -5,6 +5,7 @@
   <img src="https://telegra.ph/file/cc1197829e17ab616528c.jpg">
 </p>
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAMPURVI&repo=PURVI_MUSIC&theme=flag-india)
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
