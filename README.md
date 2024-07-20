@@ -2,7 +2,7 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAMPURVI&repo=ALPHA_MUSIC&theme=flag-india)
 
-<p align="center">
+<h1 align="center"
   ### 🚩🚩 जय बजरंग बली 🚩🚩
 <h1 align="center"
   
