@@ -1,11 +1,11 @@
 # 𝗗𝗘𝗘𝗣-𝗠𝗨𝗦𝗜𝗖
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAMPURVI&repo=ALPHA_MUSIC&theme=flag-india)
 
 <p align="center">
   <img src="https://telegra.ph/file/cc1197829e17ab616528c.jpg">
 </p>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAMPURVI&repo=PURVI_MUSIC&theme=flag-india)
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
