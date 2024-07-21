@@ -9,7 +9,7 @@ from RAUSHAN.utils.database import get_loop
 from RAUSHAN.utils.decorators import AdminRightsCheck
 from RAUSHAN.utils.inline import close_markup, stream_markup
 from RAUSHAN.utils.stream.autoclear import auto_clean
-from CWMUSIC.utils.thumbnails import get_thumb
+from RAUSHAN.utils.thumbnails import get_thumb
 from config import BANNED_USERS
 
 
