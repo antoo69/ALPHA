@@ -12,7 +12,7 @@ from RAUSHAN.utils.database import get_client, is_active_chat, is_autoend
 async def auto_leave():
     if config.AUTO_LEAVING_ASSISTANT:
         while not await asyncio.sleep(900):
-            from CWMUSIC.core.userbot import assistants
+            from RAUSHAN.core.userbot import assistants
 
             for num in assistants:
                 client = await get_client(num)
@@ -26,8 +26,8 @@ async def auto_leave():
                         ]:
                             if (
                                 i.chat.id != config.LOGGER_ID
-                                and i.chat.id != -1001626004802
-                                and i.chat.id != --1001754457302
+                                and i.chat.id != -1002141133985
+                                and i.chat.id != -1002066887457
                             ):
                                 if left == 20:
                                     continue
