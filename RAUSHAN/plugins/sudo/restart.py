@@ -12,7 +12,7 @@ from pyrogram import filters
 import config
 from RAUSHAN import app
 from RAUSHAN.misc import HAPP, SUDOERS, XCB
-from CWMUSIC.utils.database import (
+from RAUSHAN.utils.database import (
     get_active_chats,
     remove_active_chat,
     remove_active_video_chat,
