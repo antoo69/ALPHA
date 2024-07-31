@@ -1,4 +1,4 @@
-# 𝗗𝗘𝗘𝗣-𝗠𝗨𝗦𝗜𝗖
+# 𝗔𝗟𝗣𝗛𝗔-𝗠𝗨𝗦𝗜𝗖
 <h1 align="center"
  
 ### 🚩🚩 जय बजरंग बली 🚩🚩
@@ -36,4 +36,4 @@
 </p>
 
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝖳HE PURVI MUSIC™](https://github.com/TEAMPURVI) ғᴏʀ [𝖳HE PURVI MUSIC™](https://github.com/TEAMPURVI/PURVI_MUSIC) </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [4ST ALPHA™](t.me/ll_ALPHA_BABY_lll) ғᴏʀ [𝖳HE PURVI MUSIC™](https://github.com/TEAMPURVI/PURVI_MUSIC) </b>
