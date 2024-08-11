@@ -8,6 +8,8 @@ from RAUSHAN.utils.formatters import seconds_to_min
 class SoundAPI:
     def __init__(self):
         self.opts = {
+            "cookiefile": "cookies.txt",
+            "verbose": "True",
             "outtmpl": "downloads/%(id)s.%(ext)s",
             "format": "best",
             "retries": 3,
