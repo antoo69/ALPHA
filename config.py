@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/antoo69/ALPHA1",
+    "https://github.com/antoo69/ALPHA2",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -78,13 +78,13 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/1651e9f159c904d47b0e0.jpg"
+    "START_IMG_URL", "https://telegra.ph//file/88604b96069f85ac3b944.mp4"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/2b8abb517734a3ab03981.jpg"
+    "PING_IMG_URL", "https://telegra.ph//file/4b78bb7e17edb1f15b4b9.mp4"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph//file/2b0cd46187b7457d6067a.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/aedb163c331a2f2ea79f7.jpg"
+STATS_IMG_URL = "https://telegra.ph//file/45f9c223d53e6bfc7b5a7.mp4"
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/51cb8a22e65caa4382879.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/51cb8a22e65caa4382879.jpg"
 STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
